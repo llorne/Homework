@@ -1,6 +1,4 @@
 package Homework1_10;
-
-import java.io.BufferedReader;
 import java.io.IOException;
 import java.util.Scanner;
 
